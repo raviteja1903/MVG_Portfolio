@@ -19,35 +19,7 @@ npm run build
 ```
 
 ---
-
-## 📁 Project Structure
-
-```
-src/
-├── App.js                    # Root component
-├── index.js                  # Entry point
-├── index.css                 # Global styles & CSS variables
-├── data.js                   # All portfolio content (edit here!)
-├── assets/
-│   ├── photo.jpg             # Profile photo
-│   ├── resume.pdf            # Resume PDF
-│   └── resumeB64.js          # Base64 encoded resume (auto-embed)
-└── components/
-    ├── Cursor.jsx            # Custom animated cursor
-    ├── Navbar.jsx            # Sticky nav + hamburger mobile menu
-    ├── Hero.jsx              # Hero section with photo + stats
-    ├── About.jsx             # About + highlight cards
-    ├── Skills.jsx            # Skills grid with pills
-    ├── Experience.jsx        # Timeline experience cards
-    ├── Education.jsx         # Education cards with CGPA
-    ├── Projects.jsx          # Research project cards
-    ├── Publications.jsx      # Publications & certificates
-    ├── Strengths.jsx         # Strengths, activities & languages
-    ├── Resume.jsx            # Embedded PDF viewer + download
-    ├── Contact.jsx           # Contact links & CTA
-    ├── Footer.jsx            # Footer
-    └── useReveal.js          # Scroll reveal hook
-```
+ 
 
 ---
 
